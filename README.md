@@ -166,4 +166,3 @@ function switchAgent(newAgentId) {
 
 The browser will prompt the user for microphone permission upon initialization. Ensure you handle potential errors via the `onError` callback, such as permission denials or network issues.
 
-Would you like me to generate the specific CSS styles to match the MirrorFly dashboard's look for your widget container?
