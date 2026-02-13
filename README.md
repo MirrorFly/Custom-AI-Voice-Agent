@@ -166,3 +166,55 @@ function switchAgent(newAgentId) {
 
 The browser will prompt the user for microphone permission upon initialization. Ensure you handle potential errors via the `onError` callback, such as permission denials or network issues.
 
+
+## **🤹 Key Product Offerings**
+
+* [Conversational AI Agents](https://www.mirrorfly.com/conversational-ai/)  
+* [White-label AI Voice agents](https://www.mirrorfly.com/conversational-ai/voice-agent/)  
+* [Custom Chatbots](https://www.mirrorfly.com/conversational-ai/chatbot/)  
+* [500+ AI Features](https://www.mirrorfly.com/conversational-ai/features/)  
+* [Real-time Chat](https://www.mirrorfly.com/chat-api-solution.php)  
+* [HD Video Call](https://www.mirrorfly.com/video-call-solution.php)   
+* [HQ Voice Call](https://www.mirrorfly.com/video-call-solution.php)
+
+## **☁️ Deployment Models \- Self-hosted and Cloud**
+
+MirrorFly offers full freedom with the hosting options:
+
+**Self-hosted:** Deploy your client on your own data centers, private cloud or third-party servers.  
+[Check out our multi-tenant cloud hosting](https://www.mirrorfly.com/self-hosted-chat-solution.php)  
+
+**Cloud:** Host your client on MirrorFly’s multi-tenant cloud servers.   
+[Check out our multi-tenant cloud hosting](https://www.mirrorfly.com/multi-tenant-chat-for-saas.php)
+
+
+# **📚 Learn More**
+
+* [MirrorFly AI Voice Agents](https://www.mirrorfly.com/conversational-ai/voice-agent/)  
+* [MirrorFly AI Chatbots](https://www.mirrorfly.com/conversational-ai/chatbot/)  
+* [MirrorFly SDKs](https://www.mirrorfly.com/chat/sdk/)  
+* [MirrorFly API Documentation](https://www.mirrorfly.com/docs/)  
+* [Product Tutorials](https://www.mirrorfly.com/tutorials/)  
+* [See who's using MirrorFly](https://www.mirrorfly.com/chat-use-cases.php)
+
+# **🧑‍💻 Hire Experts**
+
+Need a tech team to build your AI voice agents and chatbots? [Hire a full team of experts](https://www.mirrorfly.com/hire-video-chat-developer.php). Let our team handle every step of the development process. Get a high-quality, fully-built Ai agents ready to launch, carefully built by industry experts
+
+# **⏱️ Round-the-clock Support**
+
+If you’d like to take help when working with our solution, feel free to [contact our experts](https://www.mirrorfly.com/contact-sales.php) who will be available to help you anytime of the day or night. 
+
+## **💼 Become a Part of our amazing team**
+
+We're always on the lookout for talented developers, support specialists, and product managers. Visit our [careers page](https://www.contus.com/careers.php) to explore current opportunities.
+
+## **🗞️ Get the Latest Updates**
+
+* [Blog](https://www.mirrorfly.com/blog/)  
+* [Facebook](https://www.facebook.com/MirrorFlyofficial/)  
+* [Twitter](https://twitter.com/mirrorflyteam)  
+* [LinkedIn](https://www.linkedin.com/showcase/mirrorfly-official/)  
+* [Youtube](https://www.youtube.com/@mirrorflyofficial)  
+* [Instagram](https://www.instagram.com/mirrorflyofficial/)
+
