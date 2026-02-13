@@ -10,12 +10,10 @@ Build and integrate fully customizable AI voice agents for the web using the Mir
 
 The implementation is divided into two primary phases:
 
-1. 
-**Agent Creation:** Configuring the agent's personality, training it with datasets, and designing conversational flows in the MirrorFly dashboard.
+1. **Agent Creation:** Configuring the agent's personality, training it with datasets, and designing conversational flows in the MirrorFly dashboard.
 
 
-2. 
-**Agent Integration:** Embedding the agent into your web application using the MirrorFly AI SDK.
+2. **Agent Integration:** Embedding the agent into your web application using the MirrorFly AI SDK.
 
 
 
@@ -25,38 +23,31 @@ The implementation is divided into two primary phases:
 
 ### 1. Initial Setup
 
-* 
-**Access:** Obtain developer credentials from the MirrorFly team and log into the [MirrorFly AI Dashboard](https://www.google.com/search?q=https://d1nzh49hhug3.cloudfront.net).
+* **Access:** Obtain developer credentials from the MirrorFly team and log into the [MirrorFly AI Dashboard](https://www.google.com/search?q=https://d1nzh49hhug3.cloudfront.net).
   ![MirrorFly Dashboard](./images/AI%20Voice%20Agent-Product-01.png)
 
-* 
-**Create Agent:** Click **'Create Agents'** and select **'Voice Agent'**.
+* **Create Agent:** Click **'Create Agents'** and select **'Voice Agent'**.
 
 ![MirrorFly Dashboard](./images/AI%20Voice%20Agent-Product-02.png)
-* 
-**Configuration:** Provide an agent name, description, and define the initial **System Prompt** to set core behavior.
+* **Configuration:** Provide an agent name, description, and define the initial **System Prompt** to set core behavior.
 
 ![MirrorFly Dashboard](./images/AI%20Voice%20Agent-Product-03.png)
 
 ### 2. Personality & Model Settings
 
-* 
-**Personality:** Set the welcome message, fallback responses, and adjust the formality and tone.
+* **Personality:** Set the welcome message, fallback responses, and adjust the formality and tone.
 
 
-* 
-**Model Selection:** Choose from multiple available AI models to power your agent.
+* **Model Selection:** Choose from multiple available AI models to power your agent.
 
 ![MirrorFly Dashboard](./images/AI%20Voice%20Agent-Product-04.png)
 
 ### 3. Training with RAG (Retrieval-Augmented Generation)
 
-* 
-**Datasets:** Upload knowledge bases in **PDF** or **CSV** format (Max 5MB/10 files) to provide the agent with specific domain knowledge.
+* **Datasets:** Upload knowledge bases in **PDF** or **CSV** format (Max 5MB/10 files) to provide the agent with specific domain knowledge.
 
 
-* 
-**Website Sync:** Alternatively, sync information directly from a URL to keep the agent updated with your website content.
+* **Website Sync:** Alternatively, sync information directly from a URL to keep the agent updated with your website content.
 
 ![MirrorFly Dashboard](./images/AI%20Voice%20Agent-Product-06.png)
 
@@ -76,12 +67,10 @@ Use the visual drag-and-drop canvas to define:
 
 ### 5. Speech & Functions
 
-* 
-**STT/TTS:** Configure Speech-to-Text and Text-to-Speech providers (e.g., Deepgram, ElevenLabs) with your API keys.
+* **STT/TTS:** Configure Speech-to-Text and Text-to-Speech providers (e.g., Deepgram, ElevenLabs) with your API keys.
 
 
-* 
-**Call Handling:** Enable functions like **Interruption Sensitivity**, **End Call**, or **Transfer to Human Agent** (via SIP or Conference).
+* **Call Handling:** Enable functions like **Interruption Sensitivity**, **End Call**, or **Transfer to Human Agent** (via SIP or Conference).
 
 
 
